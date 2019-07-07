@@ -24,3 +24,6 @@ https://github.com/chriskacerguis/codeigniter-restserver
 ###### PHPMAILER<br>
 PHPMailer - A full-featured email creation and transfer class for PHP
 https://github.com/PHPMailer/PHPMailer
+
+###### INSTALLATION<br>
+-composer install
